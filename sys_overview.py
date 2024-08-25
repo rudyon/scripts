@@ -20,7 +20,7 @@ def get_audio_volume():
 
 # Function to run Neofetch
 def run_neofetch():
-    os.system("neofetch")
+    os.system("neowofetch")
 
 # Main function
 def main():
